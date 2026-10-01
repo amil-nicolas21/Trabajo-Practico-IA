@@ -26,7 +26,7 @@ El notebook incluye una interfaz interactiva (ipywidgets) que permite configurar
 
 ## Cómo ejecutarlo
 
-1. Abrir el notebook en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amil-nicolas21/Trabajo-Practico-IA/blob/main/Untitled0.ipynb)
+1. Abrir el notebook en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amil-nicolas21/Trabajo-Practico-IA/blob/main/Trabajo%20Pr%C3%A1ctico%20IA.ipynb)
 2. Ejecutar la primera celda para instalar dependencias.
 3. Ejecutar *Runtime → Run all*.
 4. Usar el panel interactivo para elegir modelo, parámetros y partición.
