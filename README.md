@@ -18,7 +18,7 @@ El notebook incluye una interfaz interactiva (ipywidgets) que permite configurar
 
 | Carpeta / archivo | Descripción |
 |---|---|
-| `notebook/TP_IA_DT_vs_RF.ipynb` | Notebook principal (Google Colab) |
+| `Trabajo Práctico IA.ipynb` | Notebook principal (Google Colab) |
 | `src/` | Implementación del Decision Tree propio |
 | `data/` | Dataset indicado por la cátedra |
 | `results/` | Tablas y gráficos de los experimentos |
