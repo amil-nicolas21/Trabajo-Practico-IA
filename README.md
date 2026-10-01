@@ -37,7 +37,7 @@ Python · NumPy · pandas · scikit-learn · matplotlib · ipywidgets · Google 
 
 ## Seguimiento
 
-Tablero de Trello: [enlace]
+Tablero de Trello: [![Trello](https://img.shields.io/badge/Trello-Tablero_del_proyecto-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/invite/b/6ab00159ba67ed7cecc7e2c2/ATTIa04f3a8fde39c860847e5039941e9d5172C1D293/tp1iadtvsrf)
 
 ## Equipo
 
