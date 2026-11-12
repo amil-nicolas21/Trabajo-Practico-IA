@@ -19,7 +19,7 @@ El notebook incluye una interfaz interactiva (ipywidgets) que permite configurar
 | Carpeta / archivo | Descripción |
 |---|---|
 | `src/TP_IA_DT_vs_RF.ipynb` | Notebook principal (Google Colab) |
-| `data/` | Dataset UCI Heart Disease (4 archivos `processed.*.data`) |
+| `data/` | Dataset UCI Heart Disease (Cleveland, Switzerland y VA `processed`; Hungarian `reprocessed`) |
 | `results/` | Tablas y gráficos de los experimentos |
 | `informe/` | Informe en formato LNCS |
 
