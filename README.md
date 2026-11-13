@@ -41,7 +41,7 @@ Tablero de Trello: [![Trello](https://img.shields.io/badge/Trello-Tablero_del_pr
 ## Equipo
 
 - Aguirre, Amilcar
-- Integrante 2
+- Benetucci, Ignacio
 - Integrante 3
 
 ## Referencias
