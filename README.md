@@ -40,7 +40,7 @@ Tablero de Trello: [![Trello](https://img.shields.io/badge/Trello-Tablero_del_pr
 
 ## Equipo
 
-- Integrante 1
+- Aguirre, Amilcar
 - Integrante 2
 - Integrante 3
 
