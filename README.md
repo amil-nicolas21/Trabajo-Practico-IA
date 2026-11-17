@@ -127,7 +127,7 @@ La semilla de Random Forest permanece en **42**, definida por `SEED` en el noteb
 | Random Forest de 100 árboles sin límite de profundidad | 82,5 % | 82,2 % |
 | Random Forest con la configuración anterior | 83,2 % | 82,8 % |
 
-Random Forest obtiene mayor rendimiento promedio en estas evaluaciones. Limitar el árbol propio mejora su promedio frente a dejarlo sin límites adicionales. Las mejoras exploratorias al agregar atributos derivados todavía requieren confirmar su consistencia. La selección de parámetros sobre las mismas particiones puede producir una estimación optimista del rendimiento seleccionado.
+Random Forest obtiene mayor rendimiento promedio en estas evaluaciones. Limitar el árbol propio mejora su promedio frente a dejarlo sin límites adicionales. Agregar atributos derivados no produjo mejoras confirmables: el aumento visto en el árbol sin límites no es concluyente y desaparece al regularizarlo. La selección de parámetros sobre las mismas particiones puede producir una estimación optimista del rendimiento seleccionado.
 
 Las versiones utilizadas para los resultados registrados figuran en el CSV: NumPy **2.5.4**, pandas **3.1.0** y scikit-learn **1.9.1**. Las instrucciones de instalación anteriores no fijan versiones; para comparar mediciones, se deben considerar las versiones, los datos, los parámetros y las semillas.
 
